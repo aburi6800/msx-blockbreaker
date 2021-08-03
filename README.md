@@ -1,5 +1,6 @@
 # msx-blockbreaker
 
+<img src="image/02.png">
 
 ## Overview
 
