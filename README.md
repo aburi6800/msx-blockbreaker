@@ -23,7 +23,7 @@ https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://github.com/aburi6800/msx-blo
 
 ## More Information
 
-- Please refer to this [document](https://github.com/aburi6800/msx-blockbreaker/documents/BLOCKBRK.pdf). (Japanese only)
+- Please refer to this [document](https://github.com/aburi6800/msx-blockbreaker/blob/main/documents/BLOCKBRK.pdf). (Japanese only)
 
-- This program and other related files are licensed under terms of GPL (GNU General Public License). Changes, suggestions and improvement are welcomed.
+- This program and other related files are licenshttps://github.com/aburi6800/msx-blockbreaker/blob/main/documents/BLOCKBRK.pdfed under terms of GPL (GNU General Public License). Changes, suggestions and improvement are welcomed.
 
